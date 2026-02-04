@@ -1,0 +1,20 @@
+import cv2 as cv
+import numpy as np
+
+# Abrir la cámara (0 suele ser la cámara principal)
+cap = cv.VideoCapture(0)
+while True:
+    # Leer frame de la cámara
+    ret, frame = cap.read()
+    if not ret:
+        print("Error al leer el frame")
+        break
+
+    # Mostrar la imagen en una ventana
+    cv.imshow("Camara en vivo", frame)  # Cargando el Clasificador de Haar
+    # Salir con la tecla 'q'
+    if cv.waitKey(1) & 0xFF == ord('q'):
+        break
+    # Liberar recursos
+cap.release()
+cv2.destroyAllWindows()
