@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋 
+# Hola, soy Jordi Blanch 👋 
 
 ### 🚀 Ingeniero de Software en formación | Estratega en Sistemas Críticos | Ex-Nutriólogo Clínico
 
