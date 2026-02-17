@@ -13,15 +13,15 @@ Mi filosofía es simple: **Aparecer todos los días, ejecutar con rigor y asegur
 He clasificado mis proyectos actuales según la lógica aplicada y su utilidad operativa:
 
 ### 🔐 Ciberseguridad y Criptografía
-* **[Secure Credential Generator](tu-link-aqui):** Script en Python para la generación de hashes y tokens de alta entropía. Implementa validaciones estrictas de complejidad alfanumérica para mitigar ataques de fuerza bruta.
-* **[Input Event Monitor (Keylogger)](tu-link-aqui):** Proyecto de investigación sobre seguridad defensiva y monitoreo de flujo de datos en periféricos.
+* **[Secure Credential Generator]:** Script en Python para la generación de hashes y tokens de alta entropía. Implementa validaciones estrictas de complejidad alfanumérica para mitigar ataques de fuerza bruta.
+* **[Input Event Monitor (Keylogger)]:** Proyecto de investigación sobre seguridad defensiva y monitoreo de flujo de datos en periféricos.
 
 ### ⚙️ Automatización e Infraestructura
-* **[Hardware Capture Interface](tu-link-aqui):** Gestión y control de dispositivos de captura de video (OpenCV), enfocado en la integración de hardware y software.
-* **[Broadband Troubleshooting Logic](tu-link-aqui):** (Si tienes algún script de redes) Scripts enfocados en la resolución de incidencias de conectividad.
+* **[Hardware Capture Interface]:** Gestión y control de dispositivos de captura de video (OpenCV), enfocado en la integración de hardware y software.
+* **[Broadband Troubleshooting Logic]:** (Si tienes algún script de redes) Scripts enfocados en la resolución de incidencias de conectividad.
 
 ### 🧠 Lógica y Algoritmos
-* **[Adventure Engine & Game Logic](tu-link-aqui):** Desarrollo de motores de decisión basados en lógica condicional y gestión de estados de usuario.
+* **[Adventure Engine & Game Logic]:** Desarrollo de motores de decisión basados en lógica condicional y gestión de estados de usuario.
 
 ---
 
