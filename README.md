@@ -1,44 +1,41 @@
-# Hola, soy Jordi Blanch 👋 
+# Hola, soy Jordi Blanch 👨‍💻
 
-### 🚀 Ingeniero de Software en formación | Estratega en Sistemas Críticos | Ex-Nutriólogo Clínico
+### Ingeniero de Software en formación | Ex-Líder de Sistemas Críticos en Salud y Medios
 
-> **Filosofía Profesional:** El valor de mi formación radica en la capacidad de ejecutar tareas complejas, bajo protocolos estrictos y con una métrica de **Error Cero**. Si el sistema es crítico, mi enfoque es asegurar que el negocio nunca se detenga.
+Vengo de entornos donde el **"Error Cero"** no es una meta, sino el estándar mínimo. Mi trayectoria transita desde la precisión de los algoritmos de decisión clínica en Institutos Nacionales de Salud (**INCAN/INMEGEN**) hasta la gestión técnica de pautas legales en radio en vivo. 
 
----
-
-## 🛠️ Mi Stack Técnico
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-**Otras competencias:** Lógica de Redes (Cisco/Motorola), Gestión de Software de Medios, Análisis de Datos Clínicos y Protocolos de Seguridad.
+Mi filosofía es simple: **Aparecer todos los días, ejecutar con rigor y asegurar que el sistema nunca falle.**
 
 ---
 
-## 📂 Proyectos Destacados (Portafolio)
+## 🛠️ Portafolio de Código
 
-### 🔐 Seguridad y Criptografía
-* **[Secure Token & Hash Generator]**: Algoritmo de generación de credenciales con validación de entropía y cumplimiento de políticas de complejidad industrial.
-* **[Network Event Monitor (Keylogger)]**: Proyecto de investigación en ciberseguridad enfocado en el monitoreo de flujos de entrada y auditoría de sistemas.
+He clasificado mis proyectos actuales según la lógica aplicada y su utilidad operativa:
 
-### ⚙️ Automatización y Lógica
-* **[Hardware Capture Control]**: Implementación de visión artificial básica para la gestión de dispositivos de captura de video en tiempo real.
-* **[Decision Engine (Adventure Logic)]**: Motor de decisiones basado en lógica condicional compleja, aplicando el rigor de los algoritmos de decisión clínica al flujo de usuario.
-Authentication & Security Access Control: Desarrollo de un sistema de validación de identidad con gestión de estados (flags), control de ciclos iterativos y manejo de intentos fallidos para la prevención de accesos no autorizados.
----
+### 🔐 Ciberseguridad y Criptografía
+* **[Secure Credential Generator](tu-link-aqui):** Script en Python para la generación de hashes y tokens de alta entropía. Implementa validaciones estrictas de complejidad alfanumérica para mitigar ataques de fuerza bruta.
+* **[Input Event Monitor (Keylogger)](tu-link-aqui):** Proyecto de investigación sobre seguridad defensiva y monitoreo de flujo de datos en periféricos.
 
-## 📈 Trayectoria "Anormal" (Mi Ventaja Competitiva)
+### ⚙️ Automatización e Infraestructura
+* **[Hardware Capture Interface](tu-link-aqui):** Gestión y control de dispositivos de captura de video (OpenCV), enfocado en la integración de hardware y software.
+* **[Broadband Troubleshooting Logic](tu-link-aqui):** (Si tienes algún script de redes) Scripts enfocados en la resolución de incidencias de conectividad.
 
-Vengo de sectores donde la precisión es vital:
-* **Salud Pública (INCAN/INMEGEN):** Diseño de protocolos basados en evidencia y manejo de datos críticos.
-* **Medios de Comunicación:** Gestión técnica de software bajo normativas legales (INE/RTC) con alta facturación en juego.
-* **Soporte Corporativo:** Resolución de incidencias en infraestructura de banda ancha (Cisco/Motorola).
-
-## 📫 Conecta conmigo
-* **LinkedIn:** [https://www.linkedin.com/in/jordi-contreras-blanch-1784633b1/]
-* **Enfoque:** Estoy interesado tomar experiencia.
+### 🧠 Lógica y Algoritmos
+* **[Adventure Engine & Game Logic](tu-link-aqui):** Desarrollo de motores de decisión basados en lógica condicional y gestión de estados de usuario.
 
 ---
-*Este perfil es la prueba de que puedo aparecer todos los días, aprender rápido y construir soluciones robustas que protejan la integridad de tu operación.*
+
+## 📈 Mi Stack Actual
+- **Lenguajes:** Python (En constante profundización).
+- **Herramientas:** Git, GitHub, PyCharm, Figma.
+- **Sistemas:** Cisco, Motorola, Software de gestión de medios (CSGI/Traffic Systems).
+
+---
+
+## 🤝 Hablemos
+Si buscas a alguien que no solo escriba código, sino que entienda el impacto de un sistema en la continuidad de un negocio y sepa operar bajo presión:
+
+* **LinkedIn:** [Tu Link de LinkedIn aquí]
+* **Enfoque:** Resolución de problemas complejos, Backend, Ciberseguridad.
+
+*"El punto de un título es demostrar que puedes completar tareas complejas a tiempo. Mi código es la prueba de que puedo construir soluciones robustas que protejan tu negocio."*
