@@ -36,11 +36,9 @@ Vengo de sectores donde la precisión es vital:
 * **Medios de Comunicación:** Gestión técnica de software bajo normativas legales (INE/RTC) con alta facturación en juego.
 * **Soporte Corporativo:** Resolución de incidencias en infraestructura de banda ancha (Cisco/Motorola).
 
----
-
 ## 📫 Conecta conmigo
-* **LinkedIn:** [Tu Perfil de LinkedIn aquí]
-* **Enfoque:** Estoy interesado en Backend, Ciberseguridad y HealthTech.
+* **LinkedIn:** [https://www.linkedin.com/in/jordi-contreras-blanch-1784633b1/]
+* **Enfoque:** Estoy interesado tomar experiencia.
 
 ---
 *Este perfil es la prueba de que puedo aparecer todos los días, aprender rápido y construir soluciones robustas que protejan la integridad de tu operación.*
