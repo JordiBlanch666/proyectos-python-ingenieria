@@ -35,7 +35,7 @@ He clasificado mis proyectos actuales según la lógica aplicada y su utilidad o
 ## 🤝 Hablemos
 Si buscas a alguien que no solo escriba código, sino que entienda el impacto de un sistema en la continuidad de un negocio y sepa operar bajo presión:
 
-* **LinkedIn:** [https://www.linkedin.com/in/jordi-contreras-blanch-1784633b1/https://www.linkedin.com/in/jordi-contreras-blanch-1784633b1/Tu]
+* **LinkedIn:** [https://www.linkedin.com/in/jordi-contreras-blanch-1784633b1]
 * **Enfoque:** Resolución de problemas complejos, Backend, Ciberseguridad.
 
 *"El punto de un título es demostrar que puedes completar tareas complejas a tiempo. Mi código es la prueba de que puedo construir soluciones robustas que protejan tu negocio."*
