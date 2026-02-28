@@ -10,3 +10,4 @@ while True:
             and sum(c.isdigit() for c in password) >= 3):
         break
 print(password)
+# Prueba de commit
