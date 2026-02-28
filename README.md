@@ -1,4 +1,4 @@
-# Hola, soy Jordi Blanch 👨‍💻
+s# Hola, soy Jordi Blanch 👨‍💻
 
 ### Ingeniero de Software en formación | Ex-Líder de Sistemas Críticos en Salud y Medios
 
