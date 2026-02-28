@@ -1,4 +1,4 @@
-#1er paso se solicita al user ingresar la temperatura en grado Celsius
+#1er paso se solicita al user ingresar la temperatura en grado Celsius.
 Celsius = float(input("ingresa la temperatura en grados Celcius: "))
 
 #2nda etapa convertir a Farenheit utilizando fórmula F = (C *9/5) + 32
