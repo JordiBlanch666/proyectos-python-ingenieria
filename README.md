@@ -18,6 +18,13 @@ Un motor de cálculo de costos que integra datos de múltiples fuentes para proy
 - **Fuentes de datos:** CSV, JSON y bases de datos SQLite.
 - **Lógica:** Normalización de texto (eliminación de tildes/acentos) y cálculo de promedios estadísticos para vuelos y hospedajes.
 
+### 4. 🚚 Evaluador de Logística de Transporte (`logistica_transporte.py`)
+Script orientado a operaciones de transporte que combina **operadores aritméticos** y **operadores lógicos** para simular decisiones de despacho.
+- **Aritmética aplicada:** Usa división, suma y multiplicación para estimar litros consumidos, factor de carga, peajes y costo total de combustible.
+- **Lógica operativa:** Usa condiciones con `and` para autorizar la salida solo cuando el peso está dentro del límite y el clima pertenece a una lista segura.
+- **Captura de datos:** Permite ingresar los valores manualmente con `input()` en modo interactivo o enviarlos por argumentos de línea de comandos.
+- **Enfoque sectorial:** Puede adaptarse a cadenas de suministro del sector **Salud** para distribuir insumos médicos o al sector **Legal** para custodiar expedientes físicos con control de riesgo logístico.
+
 ---
 
 ## 🥗 La Nutrición en la Estructura de Datos
@@ -62,9 +69,14 @@ Mi formación en **Nutrición** ha sido fundamental para el diseño arquitectón
    ```
 
 4. **Ejecutar las herramientas:**
+   - **Lanzador principal en PyCharm:** ejecuta `main.py` para abrir la captura interactiva de logística.
    - **Biometría:** `python biometric.py --webcam`
    - **Contraseñas:** `python password_app.py --interactive`
    - **Viajes:** `python Prueba.py`
+   - **Logística (interactivo):** `python logistica_transporte.py --interactive`
+   - **Logística:** `python logistica_transporte.py --distance-km 180 --efficiency-km-l 6 --fuel-price 1.8 --weight-kg 2000 --max-weight-kg 5000 --climate nublado --tolls 25`
+
+> Si ves una salida como `Ran 10 tests` o `OK`, estás ejecutando un archivo de pruebas como `tests/test_logistica_transporte.py`, no el programa interactivo. Para ingresar tus datos debes ejecutar `main.py` o `logistica_transporte.py`.
 
 ---
 
