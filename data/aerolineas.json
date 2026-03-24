@@ -1,0 +1,51 @@
+[
+  {
+    "origen": "Buenos Aires",
+    "destino": "París",
+    "aerolinea": "KLM",
+    "precio": 1020
+  },
+  {
+    "origen": "Buenos Aires",
+    "destino": "Madrid",
+    "aerolinea": "LATAM",
+    "precio": 830
+  },
+  {
+    "origen": "Buenos Aires",
+    "destino": "Roma",
+    "aerolinea": "Air Europa",
+    "precio": 940
+  },
+  {
+    "origen": "Lima",
+    "destino": "Madrid",
+    "aerolinea": "Iberia",
+    "precio": 710
+  },
+  {
+    "origen": "Lima",
+    "destino": "Roma",
+    "aerolinea": "LATAM",
+    "precio": 780
+  },
+  {
+    "origen": "Lima",
+    "destino": "Tokio",
+    "aerolinea": "ANA",
+    "precio": 1520
+  },
+  {
+    "origen": "Bogotá",
+    "destino": "Madrid",
+    "aerolinea": "Iberia",
+    "precio": 705
+  },
+  {
+    "origen": "Bogotá",
+    "destino": "París",
+    "aerolinea": "Air Europa",
+    "precio": 910
+  }
+]
+
